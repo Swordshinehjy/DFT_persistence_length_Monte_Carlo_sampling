@@ -1,4 +1,4 @@
-# Persistence Length of Semiflexible Conjugated Polymers using the Improved Hindered Rotation Model
+# Correlation Length of Semiflexible Conjugated Polymers using the Improved Hindered Rotation Model
 
 ## Introduction
 
